@@ -1,0 +1,2 @@
+from .aluno_serializer import AlunoSerializer
+from .professor_serializer import ProfessorSerializer
